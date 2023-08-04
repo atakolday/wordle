@@ -147,3 +147,4 @@ def Wordle(w=words):
 
 print('')
 print('')
+Wordle()
